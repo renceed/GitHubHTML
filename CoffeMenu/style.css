@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('coffee-background.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  .container {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color:saddlebrown(255, 255, 255, 0.8);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(85, 2, 2, 0.3);
+  }
+  h1 {
+    text-align: center;
+  }
+  h3{
+    text-align:center;
+    float: right;
+  }
+  .menu-item {
+    margin-bottom: 5px;
+  }
+  .menu-item h2 {
+    margin-bottom: 5px;
+  }
+  img{
+    border-radius: 50%;
+  }
+  h3{
+    text-align:justify;
+    float:right;
+  }
+  p{
+    float:right;
+  }
